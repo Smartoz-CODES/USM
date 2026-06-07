@@ -4,8 +4,8 @@ export const Navbar = () => {
     return (
         <nav className="navbar">
             <div className="navbar-brand">
-                <span className="navbar-logo">UM</span>
-                <span className="navbar-title">User Management</span>
+                <span className="navbar-logo">CB</span>
+                <span className="navbar-title">CrudBoard</span>
             </div>
             <div className="navbar-links">
                 <NavLink
